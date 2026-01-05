@@ -1,4 +1,4 @@
-# 🎬 COE 718: Embedded Media Center
+Embedded Media Center
 
 [![Media Center Demo](https://img.youtube.com/vi/1fpZy3uRcNo/0.jpg)](https://youtube.com/shorts/1fpZy3uRcNo?si=EazBF58WNAbXzIck)  
 **Click the image above to watch the Media Center in action!**
