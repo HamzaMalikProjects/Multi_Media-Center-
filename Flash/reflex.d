@@ -1,0 +1,15 @@
+.\flash\reflex.o: reflex.c
+.\flash\reflex.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.H
+.\flash\reflex.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h
+.\flash\reflex.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\reflex.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\flash\reflex.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\flash\reflex.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\flash\reflex.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h
+.\flash\reflex.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h
+.\flash\reflex.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\reflex.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\reflex.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\reflex.o: GLCD.h
+.\flash\reflex.o: LED.h
+.\flash\reflex.o: KBD.h

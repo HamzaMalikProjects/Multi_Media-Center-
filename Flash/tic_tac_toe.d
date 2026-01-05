@@ -1,0 +1,13 @@
+.\flash\tic_tac_toe.o: tic_tac_toe.c
+.\flash\tic_tac_toe.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.H
+.\flash\tic_tac_toe.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h
+.\flash\tic_tac_toe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\tic_tac_toe.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\flash\tic_tac_toe.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\flash\tic_tac_toe.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\flash\tic_tac_toe.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h
+.\flash\tic_tac_toe.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h
+.\flash\tic_tac_toe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\tic_tac_toe.o: GLCD.h
+.\flash\tic_tac_toe.o: LED.h
+.\flash\tic_tac_toe.o: KBD.h
